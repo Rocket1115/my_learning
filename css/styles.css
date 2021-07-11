@@ -1,1 +1,16 @@
 
+  body {
+    background-color: #A6D6D6;
+  }
+  h1 {
+    color:purple;
+  }
+  h3 {
+    color:purple;
+  }
+  hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    width:100%;
+  }
